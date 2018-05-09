@@ -1,20 +1,20 @@
-DESCRIPTION
+#DESCRIPTION
 
    nylon is a lightweight proxy framework, currently supporting SOCKS
    version 4 and 5 and a services mirror mode.
 
-INSTALL
+#INSTALL
 
    ./configure
    make
    su
    make install
 
-DOCUMENTATION
+#DOCUMENTATION
 
    See the manpage nylon(1).
 
-LICENSE
+#LICENSE
 
    nylon is distributed under a BSD like license.  Feel free to use,
    modify and distribute in any form.  See the LICENSE file for more
