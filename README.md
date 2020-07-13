@@ -4,6 +4,7 @@
    version 4 and 5 and a services mirror mode.
 
 ## INSTALL
+Make sure libevent is installed in your os first
 
        ./configure
        make
